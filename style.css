@@ -1,0 +1,10 @@
+.logo{
+    border-radius: 100px;
+    width: 100px;
+}
+
+header{
+    background-color: rgb(147, 123, 211);
+    padding: 20px;
+    display: flex;
+}
