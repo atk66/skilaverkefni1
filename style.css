@@ -74,3 +74,22 @@ footer{
 .footertexti{
     text-align: center;
 }
+
+form{
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+    border-style: dotted;
+}
+
+.linkar{
+    color: rgb(71, 1, 92);
+}
+
+.takki{
+    background-color: rgb(238, 106, 250);
+}
+
+.formin{
+    background-color: rgb(167, 247, 203);
+}
